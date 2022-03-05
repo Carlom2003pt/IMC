@@ -1,0 +1,19 @@
+C:\Users\Samsung\source\repos\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.exe.config
+C:\Users\Samsung\source\repos\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.exe
+C:\Users\Samsung\source\repos\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.pdb
+C:\Users\Samsung\source\repos\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csprojAssemblyReference.cache
+C:\Users\Samsung\source\repos\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.Form1.resources
+C:\Users\Samsung\source\repos\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.Properties.Resources.resources
+C:\Users\Samsung\source\repos\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csproj.GenerateResource.cache
+C:\Users\Samsung\source\repos\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.exe
+C:\Users\Samsung\source\repos\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.pdb
+C:\Users\Carlos Marques\source\Antiga\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.exe.config
+C:\Users\Carlos Marques\source\Antiga\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.exe
+C:\Users\Carlos Marques\source\Antiga\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.pdb
+C:\Users\Carlos Marques\source\Antiga\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csproj.AssemblyReference.cache
+C:\Users\Carlos Marques\source\Antiga\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.Form1.resources
+C:\Users\Carlos Marques\source\Antiga\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.Properties.Resources.resources
+C:\Users\Carlos Marques\source\Antiga\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csproj.GenerateResource.cache
+C:\Users\Carlos Marques\source\Antiga\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Marques\source\Antiga\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.exe
+C:\Users\Carlos Marques\source\Antiga\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.pdb
